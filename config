@@ -1,0 +1,7 @@
+;WARNING - This is a machine generated file.  Do not edit manually.
+;WARNING - To update local config settings, see "ngc config set -h"
+
+[CURRENT]
+apikey=APIKEY
+format_type=json
+org=nvidia
